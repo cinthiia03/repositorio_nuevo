@@ -1,0 +1,18 @@
+* {
+	margin: 0px;
+}
+.primero {
+	background-color: blue;
+	color:white;
+	font-family: helvetica;
+}
+
+.segundo {
+	color:blue;
+}
+
+.tercero {
+	text-decoration: line-through;
+	color: red;
+	background-color: blue;
+}
